@@ -1,0 +1,9 @@
+C:\Users\рс\source\repos\SoftwareAccountingSolution\SoftwareLibrary\bin\Debug\SoftwareLibrary.dll
+C:\Users\рс\source\repos\SoftwareAccountingSolution\SoftwareLibrary\bin\Debug\SoftwareLibrary.pdb
+C:\Users\рс\source\repos\SoftwareAccountingSolution\SoftwareLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\рс\source\repos\SoftwareAccountingSolution\SoftwareLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\рс\source\repos\SoftwareAccountingSolution\SoftwareLibrary\obj\Debug\SoftwareLibrary.csproj.AssemblyReference.cache
+C:\Users\рс\source\repos\SoftwareAccountingSolution\SoftwareLibrary\obj\Debug\SoftwareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\рс\source\repos\SoftwareAccountingSolution\SoftwareLibrary\obj\Debug\Software.FCE16062.Up2Date
+C:\Users\рс\source\repos\SoftwareAccountingSolution\SoftwareLibrary\obj\Debug\SoftwareLibrary.dll
+C:\Users\рс\source\repos\SoftwareAccountingSolution\SoftwareLibrary\obj\Debug\SoftwareLibrary.pdb

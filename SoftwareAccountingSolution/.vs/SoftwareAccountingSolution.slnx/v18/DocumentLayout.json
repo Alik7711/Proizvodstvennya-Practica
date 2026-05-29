@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C66B167-E444-4D1B-A59E-91E2F2AAEB41}|SoftwareAccountingApp\\SoftwareAccountingApp.csproj|c:\\users\\\u0440\u0441\\source\\repos\\softwareaccountingsolution\\softwareaccountingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C66B167-E444-4D1B-A59E-91E2F2AAEB41}|SoftwareAccountingApp\\SoftwareAccountingApp.csproj|solutionrelative:softwareaccountingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C66B167-E444-4D1B-A59E-91E2F2AAEB41}|SoftwareAccountingApp\\SoftwareAccountingApp.csproj|c:\\users\\\u0440\u0441\\source\\repos\\softwareaccountingsolution\\softwareaccountingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3C66B167-E444-4D1B-A59E-91E2F2AAEB41}|SoftwareAccountingApp\\SoftwareAccountingApp.csproj|solutionrelative:softwareaccountingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|c:\\users\\\u0440\u0441\\source\\repos\\softwareaccountingsolution\\softwarelibrary\\services\\jsonfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|solutionrelative:softwarelibrary\\services\\jsonfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|c:\\users\\\u0440\u0441\\source\\repos\\softwareaccountingsolution\\softwarelibrary\\services\\idatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|solutionrelative:softwarelibrary\\services\\idatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|c:\\users\\\u0440\u0441\\source\\repos\\softwareaccountingsolution\\softwarelibrary\\models\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|solutionrelative:softwarelibrary\\models\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareAccountingApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SoftwareAccountingApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareAccountingApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SoftwareAccountingApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAowOMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T19:28:57.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareLibrary\\Services\\JsonFileStorage.cs",
+              "RelativeDocumentMoniker": "SoftwareLibrary\\Services\\JsonFileStorage.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareLibrary\\Services\\JsonFileStorage.cs",
+              "RelativeToolTip": "SoftwareLibrary\\Services\\JsonFileStorage.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAIwGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T19:39:20.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareLibrary\\Services\\IDataStorage.cs",
+              "RelativeDocumentMoniker": "SoftwareLibrary\\Services\\IDataStorage.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareLibrary\\Services\\IDataStorage.cs",
+              "RelativeToolTip": "SoftwareLibrary\\Services\\IDataStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T19:38:51.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Software.cs",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareLibrary\\Models\\Software.cs",
+              "RelativeDocumentMoniker": "SoftwareLibrary\\Models\\Software.cs",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareLibrary\\Models\\Software.cs",
+              "RelativeToolTip": "SoftwareLibrary\\Models\\Software.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA2wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T19:37:52.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareAccountingApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SoftwareAccountingApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0440\u0441\\source\\repos\\SoftwareAccountingSolution\\SoftwareAccountingApp\\MainWindow.xaml",
+              "RelativeToolTip": "SoftwareAccountingApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-25T19:28:57.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

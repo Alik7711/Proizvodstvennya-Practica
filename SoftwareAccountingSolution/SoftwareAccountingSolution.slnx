@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SoftwareAccountingApp/SoftwareAccountingApp.csproj" Id="3c66b167-e444-4d1b-a59e-91e2f2aaeb41" />
+  <Project Path="SoftwareLibrary/SoftwareLibrary.csproj" Id="99425a56-7c51-42f2-b934-f424c055a5cb" />
+</Solution>
