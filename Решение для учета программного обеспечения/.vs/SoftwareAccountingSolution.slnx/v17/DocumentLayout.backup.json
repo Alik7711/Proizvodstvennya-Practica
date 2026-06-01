@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\AbdurahmanovAlik\\\u041F\u041C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SoftwareAccountingSolution\\",
+  "WorkspaceRootPath": "D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C66B167-E444-4D1B-A59E-91E2F2AAEB41}|SoftwareAccountingApp\\SoftwareAccountingApp.csproj|d:\\abdurahmanovalik\\\u043F\u043C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\softwareaccountingsolution\\softwareaccountingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3C66B167-E444-4D1B-A59E-91E2F2AAEB41}|SoftwareAccountingApp\\SoftwareAccountingApp.csproj|d:\\abdurahmanovalik\\proizvodstvennya-practica 0.1\\\u0440\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\softwareaccountingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C66B167-E444-4D1B-A59E-91E2F2AAEB41}|SoftwareAccountingApp\\SoftwareAccountingApp.csproj|solutionrelative:softwareaccountingapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C66B167-E444-4D1B-A59E-91E2F2AAEB41}|SoftwareAccountingApp\\SoftwareAccountingApp.csproj|d:\\abdurahmanovalik\\proizvodstvennya-practica 0.1\\\u0440\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\softwareaccountingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3C66B167-E444-4D1B-A59E-91E2F2AAEB41}|SoftwareAccountingApp\\SoftwareAccountingApp.csproj|solutionrelative:softwareaccountingapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|D:\\AbdurahmanovAlik\\\u041F\u041C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SoftwareAccountingSolution\\softwarelibrary\\models\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\softwarelibrary\\models\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|solutionrelative:softwarelibrary\\models\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|D:\\AbdurahmanovAlik\\\u041F\u041C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SoftwareAccountingSolution\\softwarelibrary\\services\\idatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\softwarelibrary\\services\\idatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99425A56-7C51-42F2-B934-F424C055A5CB}|SoftwareLibrary\\SoftwareLibrary.csproj|solutionrelative:softwarelibrary\\services\\idatastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,10 +31,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\SoftwareAccountingApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SoftwareAccountingApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\SoftwareAccountingApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SoftwareAccountingApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwGEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:49:01.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u041F\u041C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SoftwareAccountingSolution\\SoftwareAccountingApp\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\SoftwareAccountingApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "SoftwareAccountingApp\\MainWindow.xaml",
-              "ToolTip": "D:\\AbdurahmanovAlik\\\u041F\u041C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SoftwareAccountingSolution\\SoftwareAccountingApp\\MainWindow.xaml",
+              "ToolTip": "D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\SoftwareAccountingApp\\MainWindow.xaml",
               "RelativeToolTip": "SoftwareAccountingApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-29T08:13:07.384Z",
@@ -38,11 +55,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Software.cs",
-              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u041F\u041C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SoftwareAccountingSolution\\SoftwareLibrary\\Models\\Software.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\SoftwareLibrary\\Models\\Software.cs",
               "RelativeDocumentMoniker": "SoftwareLibrary\\Models\\Software.cs",
-              "ToolTip": "D:\\AbdurahmanovAlik\\\u041F\u041C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SoftwareAccountingSolution\\SoftwareLibrary\\Models\\Software.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\SoftwareLibrary\\Models\\Software.cs",
               "RelativeToolTip": "SoftwareLibrary\\Models\\Software.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,11 +67,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IDataStorage.cs",
-              "DocumentMoniker": "D:\\AbdurahmanovAlik\\\u041F\u041C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SoftwareAccountingSolution\\SoftwareLibrary\\Services\\IDataStorage.cs",
+              "DocumentMoniker": "D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\SoftwareLibrary\\Services\\IDataStorage.cs",
               "RelativeDocumentMoniker": "SoftwareLibrary\\Services\\IDataStorage.cs",
-              "ToolTip": "D:\\AbdurahmanovAlik\\\u041F\u041C 0.1 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\SoftwareAccountingSolution\\SoftwareLibrary\\Services\\IDataStorage.cs",
+              "ToolTip": "D:\\AbdurahmanovAlik\\Proizvodstvennya-Practica 0.1\\\u0420\u0435\u0448\u0435\u043D\u0438\u0435 \u0434\u043B\u044F \u0443\u0447\u0435\u0442\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0433\u043E \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u044F\\SoftwareLibrary\\Services\\IDataStorage.cs",
               "RelativeToolTip": "SoftwareLibrary\\Services\\IDataStorage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

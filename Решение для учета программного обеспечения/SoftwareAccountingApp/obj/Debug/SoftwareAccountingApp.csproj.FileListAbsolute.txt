@@ -37,3 +37,23 @@ D:\AbdurahmanovAlik\ПМ 0.1 практика\SoftwareAccountingSolution\Softwar
 D:\AbdurahmanovAlik\ПМ 0.1 практика\SoftwareAccountingSolution\SoftwareAccountingApp\obj\Debug\Software.581410F8.Up2Date
 D:\AbdurahmanovAlik\ПМ 0.1 практика\SoftwareAccountingSolution\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.exe
 D:\AbdurahmanovAlik\ПМ 0.1 практика\SoftwareAccountingSolution\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.pdb
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\bin\Debug\SoftwareAccountingApp.exe.config
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\bin\Debug\SoftwareAccountingApp.exe
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\bin\Debug\SoftwareAccountingApp.pdb
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\bin\Debug\Newtonsoft.Json.dll
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\bin\Debug\SoftwareLibrary.dll
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\bin\Debug\SoftwareLibrary.pdb
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\bin\Debug\Newtonsoft.Json.xml
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.csproj.AssemblyReference.cache
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.exe.config
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\MainWindow.baml
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\MainWindow.g.cs
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\App.g.cs
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp_MarkupCompile.cache
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.g.resources
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.Properties.Resources.resources
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.csproj.GenerateResource.cache
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.csproj.CoreCompileInputs.cache
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\Software.581410F8.Up2Date
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.exe
+D:\AbdurahmanovAlik\Proizvodstvennya-Practica 0.1\Решение для учета программного обеспечения\SoftwareAccountingApp\obj\Debug\SoftwareAccountingApp.pdb
